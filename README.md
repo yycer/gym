@@ -7,6 +7,7 @@ Here is my learning progress for DL (**Deep Learning**) and RL (**Reinforcement 
 # DP
 1. LNN (Linear Neural Network) based on California housing dataset: [[codes](https://github.com/yycer/gym/blob/main/DL/01-LNN.ipynb)] [[Youtube Chinese](https://www.youtube.com/watch?v=3MAJ7N59ENU)] [[Bilibili Chinese](https://www.bilibili.com/video/BV1EcM1zfEwY/?vd_source=fcf218e56b3abef41af77b8011d595fb)]
 2. MLP (Multiple Layer Perceptron) based on minist dataset: [[codes](https://github.com/yycer/gym/blob/main/DL/02-MLP.ipynb)] [[Youtube Chinese](https://youtu.be/yMxI0Ak4fdU)] [[Bilibili Chinese](https://www.bilibili.com/video/BV1s5NEzWEXT/?vd_source=fcf218e56b3abef41af77b8011d595fb)]
+3. CNN (Convolutional Neural Network) based on cat-and-dog dataset: [[codes](https://github.com/yycer/gym/blob/main/DL/03-CNN.ipynb)] [[Youtube Chinese](https://www.youtube.com/watch?v=OL2Yy43hN7Y)] [[Bilibili Chinese](https://www.bilibili.com/video/BV16EK3zhEi8/?vd_source=fcf218e56b3abef41af77b8011d595fb)]
 
 
 # RL (TODO)
